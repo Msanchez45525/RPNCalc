@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RPNCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "7 3 +"
+    }
+  }
+}
